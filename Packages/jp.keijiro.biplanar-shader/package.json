@@ -1,0 +1,12 @@
+{
+  "author": "Keijiro Takahashi",
+  "dependencies": { "com.unity.shadergraph": "7.4.1" },
+  "description": "Biplanar mapping shader for Shader Graph",
+  "displayName": "Biplanar Shader",
+  "keywords": [ "unity" ],
+  "license": "Unlicense",
+  "name": "jp.keijiro.biplanar-shader",
+  "unity": "2019.4",
+  "unityRelease": "0f1",
+  "version": "1.0.0"
+}

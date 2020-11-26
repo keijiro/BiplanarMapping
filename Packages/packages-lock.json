@@ -65,6 +65,14 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.keijiro.biplanar-shader": {
+      "version": "file:jp.keijiro.biplanar-shader",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.shadergraph": "7.4.1"
+      }
+    },
     "jp.keijiro.danish-statues": {
       "version": "0.0.4",
       "depth": 0,
